@@ -83,9 +83,13 @@ streamlit run app.py
 The app will:
 
 ✅ Take advertising spend inputs (TV, Radio, Newspaper)
+
 ✅ Predict sales using the trained model
+
 ✅ Display predicted sales for multiple products
+
 ✅ Show product-wise bar chart visualization
+
 ✅ Highlight the best-performing product
 
 📊 Insights Delivered
@@ -111,11 +115,17 @@ Interactive table and bar graph
 Highlight of highest predicted sales
 
 📜 Technologies Used
+
 Tool	Purpose
+
 Python	Programming Language
+
 Pandas / NumPy	Data Processing
+
 Scikit-learn	Machine Learning
+
 Matplotlib / Seaborn	Data Visualization
+
 Streamlit	Web App Framework
 
 🏁 Future Enhancements
